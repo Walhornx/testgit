@@ -1,0 +1,42 @@
+// Container & Breakpoints
+@use "sass:math";
+$breakpoint1450: 1449.98 + px;
+$breakpoint992: 991.98 + px;
+$breakpoint768: 767.98 + px;
+$breakpoint480: 479.98 + px;
+
+// Burger Menu
+$burgerBreakpoint: $breakpoint992;
+$burgerColor: "black";
+$burgerActiveColor: "white";
+
+// // ----------------fons---------------
+// %-400 {
+// 	font-family: ;
+// 	font-weight: 400;
+// }
+
+// %-500 {
+// 	font-family: ;
+// 	font-weight: 500;
+// }
+
+// %-700 {
+// 	font-family: ;
+// 	font-weight: 700;
+// }
+
+// // ----colors----
+// $color-text: ;
+// $text-light-color:;
+// $title-color:;
+// $primory-color:;
+// $accent-color:;
+// $accent-light-color:;
+
+// -------button-------
+
+// btn-accent{
+// 	cursor: pointer;
+// 	display: inline-block;
+// }
