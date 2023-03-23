@@ -1,1 +1,1 @@
-let;
+const str = "hello world";
